@@ -1,4 +1,4 @@
-package Day9;
+package CogentSubmissions;
 
 abstract class Bank {
     int balance = 0;

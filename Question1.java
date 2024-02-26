@@ -1,5 +1,4 @@
-package Day9;
-
+package CogentSubmissions;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
